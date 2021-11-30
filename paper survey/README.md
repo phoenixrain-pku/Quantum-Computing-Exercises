@@ -12,6 +12,8 @@ Update on 2021/11/4:
    
    The external controller is present to reconfigure the classical switch, and during the quantum transmission process, the classical switch cannot be reconfigured.
    
+   But this work only models the architecture and gives some constraints. The detailed protocols and algorithms can be considered much more.
+   
 3. https://dl.acm.org/doi/pdf/10.1145/3387514.3405853
 
    This work, *Concurrent Entanglement Routing for Quantum Networks: Model and Designs*, designs a new entanglement routing algorithm based on quantum network features. It compares itself with SDN, and mentioned that the quantum network topology  is not reliable because links may arbitrarily fail. Hence, more robust algorithms are required. I think it truly emphasizes importance on robustness in routing, so maybe a controller who always gains global information, is much more needed.
