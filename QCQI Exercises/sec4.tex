@@ -233,3 +233,22 @@ To achieve this, we should first depart $C^2(U)$ into the combination of $C(V)$ 
     \caption{}
     \label{}
 \end{figure}
+
+\subsection*{Exercise 4.23}
+We should just find proper gates for this decomposition:
+\begin{figure}[htbp]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/4-23.jpg}
+    \caption{}
+    \label{}
+\end{figure}
+
+If $U=R_y(\theta)$, then $e^{i\alpha}=\det(U)$ and $\alpha=0$. Therefore, we can just let $\alpha=0, A=I,B=R_y(-\theta/2)$ and $C=R_y(\theta/2)$.
+
+As for $U=R_x(\theta)$, we can similarly rotate the system, and then apply $HZH=X$. Therefore, we can just let $\alpha = 0, A = H, B =R_z(-\theta/2)$ and $C=HR_y(\theta/2)$.
+
+\subsection*{Exercise 4.30}
+
+To achieve $C^n(U)$, we can first achieve it using $C^n(X)$ and other single qubit gates, and then the problem is how to achieve $C^n(X)$ using Tollifo gates and single qubit gates without work qibits.
+
+To do this, we can let $A^2=X$, and apply $O(n^2)$ $C^2(A)$ gates and $C^2(X)$ gates.

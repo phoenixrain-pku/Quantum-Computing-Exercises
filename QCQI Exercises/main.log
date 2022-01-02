@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 2.9.7350 64-bit) (preloaded format=xelatex 2020.3.26)  1 NOV 2021 18:43
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 2.9.7350 64-bit) (preloaded format=xelatex 2020.3.26)  2 JAN 2022 20:50
 entering extended mode
 **./main.tex
 (main.tex
@@ -605,7 +605,7 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 \verbatim@out=\write5
-runsystem(echo 'write18-test-20211111123'>"main.w18")...disabled (restricted).
+runsystem(echo 'write18-test-2022121250'>"main.w18")...disabled (restricted).
 
 
 
@@ -819,7 +819,11 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 86.
 )
 \Hy@SectionHShift=\skip72
-) (main.aux)
+) (main.aux
+
+LaTeX Warning: Label `' multiply defined.
+
+)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
@@ -833,8 +837,7 @@ LaTeX Font Info:    ... okay on input line 51.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 51.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 5
 1.
-
-("D:\MiKTeX 2.9\tex/latex/base\ts1cmr.fd"
+ ("D:\MiKTeX 2.9\tex/latex/base\ts1cmr.fd"
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 51.
@@ -941,7 +944,9 @@ Overfull \hbox (0.322pt too wide) in paragraph at lines 445--446
 [27]) (sec4.tex [28] [29] [30] [31] [32]
 File: figures/4-22.jpg Graphic file (type bmp)
 <figures/4-22.jpg>
-) [33] [34]
+File: figures/4-23.jpg Graphic file (type bmp)
+<figures/4-23.jpg>
+ [33] [34]) [35]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 58.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 58.
  (main.aux)
@@ -949,15 +954,19 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 58.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 58.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 58.
  ) 
 Here is how much of TeX's memory you used:
- 25257 strings out of 414221
- 457840 string characters out of 2905437
- 753536 words of memory out of 3000000
- 42314 multiletter control sequences out of 15000+200000
+ 25263 strings out of 414221
+ 457940 string characters out of 2905437
+ 753573 words of memory out of 3000000
+ 42319 multiletter control sequences out of 15000+200000
  545544 words of font info for 81 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
  60i,16n,67p,623b,435s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on main.pdf (34 pages).
+Output written on main.pdf (35 pages).
