@@ -1,0 +1,17 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Classical\040Network\040Architecture}{}% 2
+\BOOKMARK [1][-]{section.3}{Quantum\040Network}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Physical\040Layer}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Link\040Layer}{section.3}% 5
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Quantum\040Repeaters}{subsection.3.2}% 6
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Quantum\040Error\040Correction}{subsection.3.2}% 7
+\BOOKMARK [2][-]{subsection.3.3}{Link\040Layer\040Protocol}{section.3}% 8
+\BOOKMARK [3][-]{subsubsection.3.3.1}{Desired\040Service}{subsection.3.3}% 9
+\BOOKMARK [3][-]{subsubsection.3.3.2}{Error\040Detection}{subsection.3.3}% 10
+\BOOKMARK [3][-]{subsubsection.3.3.3}{Link\040Layer\040Protocol}{subsection.3.3}% 11
+\BOOKMARK [2][-]{subsection.3.4}{Network\040Layer}{section.3}% 12
+\BOOKMARK [3][-]{subsubsection.3.4.1}{Network\040Topology}{subsection.3.4}% 13
+\BOOKMARK [3][-]{subsubsection.3.4.2}{Time\040Slots}{subsection.3.4}% 14
+\BOOKMARK [3][-]{subsubsection.3.4.3}{Routing\040Problem}{subsection.3.4}% 15
+\BOOKMARK [3][-]{subsubsection.3.4.4}{Routing\040Algorithms}{subsection.3.4}% 16
+\BOOKMARK [2][-]{subsection.3.5}{Transport\040Layer\040Protocol}{section.3}% 17

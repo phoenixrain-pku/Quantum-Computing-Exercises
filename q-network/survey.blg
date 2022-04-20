@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (MiKTeX 2.9.7350 64-bit)
+Capacity: max_strings=4000, hash_size=5000, hash_prime=4253
+The top-level auxiliary file: survey.aux
+The style file: plain.bst
+Database file #1: ref.bib
+Warning--empty publisher in dahlberg2019link
+You've used 18 entries,
+            2118 wiz_defined-function locations,
+            615 strings with 7897 characters,
+and the built_in function-call counts, 7347 in all, are:
+= -- 684
+> -- 497
+< -- 3
++ -- 197
+- -- 178
+* -- 612
+:= -- 1275
+add.period$ -- 56
+call.type$ -- 18
+change.case$ -- 140
+chr.to.int$ -- 0
+cite$ -- 19
+duplicate$ -- 226
+empty$ -- 465
+format.name$ -- 178
+if$ -- 1460
+int.to.chr$ -- 0
+int.to.str$ -- 18
+missing$ -- 18
+newline$ -- 93
+num.names$ -- 36
+pop$ -- 124
+preamble$ -- 1
+purify$ -- 122
+quote$ -- 0
+skip$ -- 159
+stack$ -- 0
+substring$ -- 368
+swap$ -- 41
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 72
+warning$ -- 1
+while$ -- 64
+width$ -- 20
+write$ -- 199
+(There was 1 warning)
